@@ -1,0 +1,19 @@
+# Maven output, screenshots, XML dumps and reports
+/target/
+/allure-results/
+/allure-report/
+*.log
+
+# IDE files
+/.idea/
+*.iml
+*.iws
+*.ipr
+/.vscode/
+/.settings/
+/.classpath
+/.project
+
+# OS files
+.DS_Store
+Thumbs.db
